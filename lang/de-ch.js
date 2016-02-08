@@ -2,7 +2,7 @@
  * @license Copyright (c) 2003-2016, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
-CKEDITOR.plugins.setLang( 'filetools', 'de', {
+CKEDITOR.plugins.setLang( 'filetools', 'de-ch', {
 	loadError: 'Während dem Lesen der Datei ist ein Fehler aufgetreten.',
 	networkError: 'Während dem Hochladen der Datei ist ein Netzwerkfehler aufgetreten.',
 	httpError404: 'Während dem Hochladen der Datei ist ein HTTP-Fehler aufgetreten (404: Datei nicht gefunden).',
